@@ -1,3 +1,5 @@
+console.log(window)
+
 // Assignment code here
 
 
