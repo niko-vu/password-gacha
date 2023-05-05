@@ -33,6 +33,8 @@ Click [here](https://niko-vu.github.io/password-gacha/) for the deployed applica
 
 ## Credits
 
+* I referenced this [Professional README Guide tutorial](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) for the structure of my README.
+
 * I did not author the starter code and I cloned it from the repository, [friendly-parakeet](https://github.com/coding-boot-camp/friendly-parakeet). This code can be found in the HTML, CSS, and JavaScript files. I only edited the HTML file by linking the CSS and JavaScript file properly and I added a lot of code to the JavaScript file to add functionality to the Generate Password button. 
 
 * I referenced the examples on this [MDN Web Docs Window: prompt() method page](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) in order to add my own pop-up prompt windows to the site.
