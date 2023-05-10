@@ -91,7 +91,7 @@ function generatePassword() {
         // Y N N N
       } else if (lowercaseyes == "yes" && uppercaseyes == "no" && numbersyes == "no" && symbolsyes == "no") {
         var password = "";
-        var answers = "abcdefghijklmnopqrstuvwxyz0123456789";
+        var answers = "abcdefghijklmnopqrstuvwxyz";
         for (let i = 1; i <= length; i++) {
           var char = Math.floor(Math.random() * answers.length + 1);
           password += answers.charAt(char);
