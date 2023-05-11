@@ -12,7 +12,7 @@ I solved so many problems doing this challenge--from my lack of knowing where to
 
 I learned how to turn a static website into a functioning and interactive one. I was able to figure out how to use the return function, how to randomly generate characters, and I solidified my ability to write conditional statements.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
