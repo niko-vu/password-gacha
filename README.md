@@ -2,6 +2,8 @@
 
 ## Description
 
+Using my newfound knowledge on JavaScript to create an application that will generate random passwords... a gacha for passwords.
+
 While reaching the final product of this project, I found that I was motivated by the fact that this was my first JavaScript-oriented project. At the moment, I do not have a strong grasp on JavaScript. I'm not well-versed with its syntax, structure, etc. BUT, because of my lack of experience and applied knowledge, I wanted so badly to be able to execute this challenge successfully.
 
 I continued to build upon the existing JavaScript file until completion because I wanted to see how I could make the site functional; I wanted to see how I could do this on my own with the help of research; and I wanted to learn through the process of doing.
